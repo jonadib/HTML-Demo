@@ -1,3 +1,3 @@
 # HTML-Demo
-This is my first Git repository
-Author - Adib <br>hpoi
+This is my first Git repository<br>
+Author - Adib 
